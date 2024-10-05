@@ -1,0 +1,21 @@
+/*
+.btn{
+    background-color: red;
+    border-radius: 6px;
+    color: white;
+    padding: 30px;
+
+}
+    */
+    .btn{
+        background-color: red;
+        
+        border-radius: 6px;
+        color: white;
+        padding: 30px;
+    
+    }
+.btn:hover{
+    background-color: green;
+    
+}
